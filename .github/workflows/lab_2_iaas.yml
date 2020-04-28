@@ -5,7 +5,7 @@ on:
     paths:
       - 'lab_2/**'
 
-name: Lab_2_IaaS-East
+name: Lab_2_IaaS
 
 env:
   RG_NAME: rg-widget-app
