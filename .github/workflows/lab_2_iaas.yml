@@ -5,11 +5,11 @@ on:
     paths:
       - 'lab_2/**'
 
-name: Lab_2_IaaS
+name: Lab_2_IaaS-East
 
 env:
-  RG_NAME: cloud-shell-storage-westus
-  LOCATION: westus
+  RG_NAME: rg-widget-app
+  LOCATION: eastus2
 
 jobs:
 
